@@ -1,0 +1,9 @@
+# Alleen de gepubliceerde presentatie gaat online
+/*
+!/.gitignore
+!/index.html
+!/voorlichting-ict-avans.html
+!/video.js
+!/Lovable-voorbeeld.mp4
+!/img/
+/img/_ongebruikt/
